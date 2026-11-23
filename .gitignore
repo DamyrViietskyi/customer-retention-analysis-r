@@ -1,0 +1,5 @@
+figures/
+*.csv
+!demo/customers.csv
+.Rhistory
+.RData
